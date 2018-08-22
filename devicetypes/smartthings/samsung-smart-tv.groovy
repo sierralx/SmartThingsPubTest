@@ -2,7 +2,7 @@
  *  Samsung TV
  *
  *  Author: SmartThings (juano23@gmail.com)
- *  Date: 2015-01-08
+ *  Date: 2015-01-08??? any update?
  */
  
 // for the UI
